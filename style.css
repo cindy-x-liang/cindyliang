@@ -334,3 +334,12 @@ nav ul li a:hover::after {
 .services-list div:hover .layer1 {
     height: 100%
 }
+
+.footer-text {
+    margin-top: 40px;
+    font-size: 15px;
+    text-align: right;
+    text-decoration: none;
+    color: #fff;
+    font-style: italic;
+}
